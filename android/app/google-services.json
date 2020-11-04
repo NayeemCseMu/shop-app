@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202716162517",
+    "firebase_url": "https://shop-app-67cbd.firebaseio.com",
+    "project_id": "shop-app-67cbd",
+    "storage_bucket": "shop-app-67cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202716162517:android:2d057249a28b581a3eb55c",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202716162517-ugl6etpkimepilk4jif6m6gfg2f23gg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_app",
+            "certificate_hash": "d2aac85a4642c0ffbdf457efd80b44453a52b66e"
+          }
+        },
+        {
+          "client_id": "202716162517-6g3egr9cbanlg7iavdf1db0bom1qntai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLTk3MeYfIBqxUyooHNwkKEki2RFCDY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202716162517-6g3egr9cbanlg7iavdf1db0bom1qntai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
